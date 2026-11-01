@@ -1,0 +1,12 @@
+{
+    "display_name": "Live2d",
+    "loading_order": 15,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "style.css",
+    "author": "Tony-sama",
+    "version": "0.2.0",
+    "homePage": "https://github.com/SillyTavern/Extension-Live2d",
+    "auto_update": true
+}
